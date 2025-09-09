@@ -1,0 +1,27 @@
+# Model files (too large for GitHub)
+models/
+*.pkl
+
+# Data files
+data.csv
+data_cleaned.csv
+data_after_eda.csv
+data_basic_processed.csv
+prepared_data.csv
+data_basic_preporation.csv
+data_cleaned_with_new_features.csv
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
